@@ -36,6 +36,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    [![](https://visitcount.itsvg.in/api?id=ShivankXD&label=1003&icon=8&pretty=false)](https://visitcount.itsvg.in)
+    <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ShivankXD&label=1003&icon=8&pretty=false" />
+</a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <!-- Add more icons similarly -->
