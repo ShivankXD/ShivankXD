@@ -103,6 +103,6 @@
 <img src="https://raw.githubusercontent.com/ShivankXD/ShivankXD/output/snake.svg" alt="Snake animation" />
 
 ###
-![Profile Views](https://api.countapi.xyz/hit/github.com/ShivankXD)
+![Visitor Count](https://profile-counter.glitch.me/ShivankXD/count.svg)
 
 
