@@ -103,6 +103,5 @@
 <img src="https://raw.githubusercontent.com/ShivankXD/ShivankXD/output/snake.svg" alt="Snake animation" />
 
 ###
-![Visitor Count](https://profile-counter.glitch.me/ShivankXD/count.svg)
 
 
