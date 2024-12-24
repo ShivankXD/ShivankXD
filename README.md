@@ -103,4 +103,4 @@
 <img src="https://raw.githubusercontent.com/ShivankXD/ShivankXD/output/snake.svg" alt="Snake animation" />
 
 ###
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=ShivankXD)
+
