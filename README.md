@@ -96,7 +96,7 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo" />
 <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Amazon_DynamoDB_logo.png" height="30" alt="Amazon DynamoDB logo" />
+<img src="https://cdn.simpleicons.org/amazondynamodb/#4053D6" height="30" alt="Amazon DynamoDB logo" />
 <img width="12" />
 <img src="https://cdn.simpleicons.org/adobe/FF0000" height="30" alt="adobe logo" />
 <img width="12" />
