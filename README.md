@@ -54,8 +54,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
@@ -100,7 +98,7 @@
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Amazon_DynamoDB_logo.png" height="30" alt="Amazon DynamoDB logo" />
 <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Adobe_Corporate_logo.svg" height="30" alt="adobe logo" />
+<img src="https://cdn.simpleicons.org/adobe/FF0000" height="30" alt="adobe logo" />
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="30" alt="adobe photoshop logo" />
 <img width="12" />
