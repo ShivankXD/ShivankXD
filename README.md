@@ -96,10 +96,6 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo" />
 <img width="12" />
-<img src="https://cdn.simpleicons.org/amazondynamodb/#4053D6" height="30" alt="Amazon DynamoDB logo" />
-<img width="12" />
-<img src="https://cdn.simpleicons.org/adobe/FF0000" height="30" alt="adobe logo" />
-<img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="30" alt="adobe photoshop logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
@@ -114,13 +110,8 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="scikit-learn logo" />
 <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo.png" height="30" alt="plotly logo" />
-<img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Nvidia_logo.svg" height="30" alt="nvidia logo" />
-<img width="12" />
-<img src="[https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg](https://www.pngmart.com/files/23/Power-Bi-Logo-PNG.png)" height="30" alt="power bi logo" />
-<img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/AMD_Logo.svg" height="30" alt="amd logo" />
+<img width="12" />
 
 
 </div>
