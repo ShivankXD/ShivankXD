@@ -94,7 +94,7 @@
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="30" alt="apache spark logo" />
 <img width="12" />
-<img src="[https://upload.wikimedia.org/wikipedia/commons/3/37/Chartjs.svg](https://images.seeklogo.com/logo-png/49/1/chart-js-logo-png_seeklogo-496478.png)" height="30" alt="chart.js logo" />
+<img src="https://www.chartjs.org/img/chartjs-logo.svg" height="30" alt="chart.js logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo" />
 <img width="12" />
@@ -120,7 +120,7 @@
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Nvidia_logo.svg" height="30" alt="nvidia logo" />
 <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" height="30" alt="power bi logo" />
+<img src="[https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg](https://www.pngmart.com/files/23/Power-Bi-Logo-PNG.png)" height="30" alt="power bi logo" />
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/AMD_Logo.svg" height="30" alt="amd logo" />
 
