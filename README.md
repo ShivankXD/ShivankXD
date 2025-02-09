@@ -110,7 +110,6 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="scikit-learn logo" />
 <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/AMD_Logo.svg" height="30" alt="amd logo" />
 <img width="12" />
 
 
