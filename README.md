@@ -132,7 +132,8 @@
 
 ###
 
-![NeuroRide](E:\Downloads\NeuroRidedet.png)
+![NeuroRide]([E:\Downloads\NeuroRidedet.png](https://www.canva.com/design/DAGgImGm0Pg/ayJHwQ8OX5zA1G8nr-ZEfQ/view?utm_content=DAGgImGm0Pg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7a1a21d4fc))
+<img align="right" height="150" src="https://www.canva.com/design/DAGgImGm0Pg/ayJHwQ8OX5zA1G8nr-ZEfQ/view?utm_content=DAGgImGm0Pg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7a1a21d4fc"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivankxd&label=Profile%20views&color=0e75b6&style=flat" alt="shivankxd" /> </p>
 
