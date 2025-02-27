@@ -133,7 +133,7 @@
 ###
 
 
-![Canva Image](https://ibb.co/Z6ZcgMP1)
+![Canva Image](https://github.com/ShivankXD/ShivankXD/blob/main/NeuroRidedet.png)
 
 
 
