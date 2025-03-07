@@ -134,7 +134,7 @@
 
 
 <!--![Canva Image](https://github.com/ShivankXD/ShivankXD/blob/main/NeuroRidedet.png) -->
-<img src="https://github.com/ShivankXD/ShivankXD/blob/main/NeuroRidedet.png" style="max-width: 100%; height: auto;">
+<!--<img src="https://github.com/ShivankXD/ShivankXD/blob/main/NeuroRidedet.png" style="max-width: 100%; height: auto;"> !-->
 
 
 
