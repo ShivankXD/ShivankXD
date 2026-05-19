@@ -3,12 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivankXD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&border_radius=10" height="170" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=ShivankXD&theme=tokyonight&hide_border=false&border_radius=10" height="170" alt="streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShivankXD&theme=tokyonight" width="100%" alt="profile summary" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivankXD&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivankXD&theme=tokyonight" height="170" alt="stats" />
+  <img src="https://streak-stats.demolab.com?user=ShivankXD&theme=tokyonight&hide_border=false&border_radius=10" height="170" alt="streak stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivankXD&theme=tokyonight" height="170" alt="top languages" />
 </div>
 
 ###
