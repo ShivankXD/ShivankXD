@@ -123,6 +123,16 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+<p align="left">
+  <!-- Ko-fi Badge -->
+  <a href="https://ko-fi.com" target="_blank">
+    <img src="https://shields.io" alt="Ko-fi">
+  </a>
+  <!-- Buy Me a Chai Badge -->
+  <a href="https://ankushminda.com" target="_blank">
+    <img src="https://shields.io" alt="Buy Me a Chai">
+  </a>
+</p>
 
 ###
 
