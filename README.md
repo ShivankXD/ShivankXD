@@ -124,15 +124,12 @@
   </a>
 </div>
 <p align="left">
-  <!-- Ko-fi Badge -->
-  <a href="https://ko-fi.com" target="_blank">
-    <img src="https://shields.io" alt="Ko-fi">
-  </a>
-  <!-- Buy Me a Chai Badge -->
-  <a href="https://ankushminda.com" target="_blank">
-    <img src="https://shields.io" alt="Buy Me a Chai">
-  </a>
+  <a href="mailto:shivankha@gmail.com" target="_blank"><img src="https://shields.io" alt="Gmail"></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="https://ko-fi.com" target="_blank"><img src="https://shields.io" alt="Ko-fi"></a>
+  <a href="https://ankushminda.com" target="_blank"><img src="https://shields.io" alt="Buy Me a Chai"></a>
 </p>
+
 
 ###
 
