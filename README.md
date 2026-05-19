@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShivankXD&theme=tokyonight" height="170" alt="stats" />
   <img src="https://streak-stats.demolab.com?user=ShivankXD&theme=tokyonight&hide_border=false&border_radius=10" height="170" alt="streak stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShivankXD&theme=tokyonight" height="170" alt="top languages" />
 </div>
 
 ###
