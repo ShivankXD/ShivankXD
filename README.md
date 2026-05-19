@@ -3,8 +3,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivankXD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivankXD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivankXD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&border_radius=10" height="170" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivankXD&theme=tokyonight&hide_border=false&border_radius=10" height="170" alt="streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivankXD&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=tokyonight&hide_border=false&border_radius=10" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -126,8 +130,8 @@
   <a href="https://ko-fi.com/shivankxd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=FF5E5B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo" />
   </a>
-  <a href="https://www.buymeacoffee.com/shivankxd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Buy+Me+a+Coffee&logo=buy-me-a-coffee&label=&color=FFDD00&logoColor=000000&labelColor=&style=for-the-badge" height="35" alt="buy me a coffee logo" />
+  <a href="https://buymeachai.com/shivankxd" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Buy+Me+a+Chai&logo=buymeacoffee&label=&color=FF813F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="buy me a chai logo" />
   </a>
 </div>
 
