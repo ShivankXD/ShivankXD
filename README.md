@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivankXD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&border_radius=10" height="170" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivankXD&theme=tokyonight&hide_border=false&border_radius=10" height="170" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=ShivankXD&theme=tokyonight&hide_border=false&border_radius=10" height="170" alt="streak stats" />
 </div>
 
 <div align="center">
