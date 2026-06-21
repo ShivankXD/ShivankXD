@@ -126,9 +126,6 @@
   <a href="https://ko-fi.com/shivankxd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=FF5E5B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo" />
   </a>
-  <a href="https://buymeachai.com/shivankxd" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Buy+Me+a+Chai&logo=buymeacoffee&label=&color=FF813F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="buy me a chai logo" />
-  </a>
 </div>
 
 ###
