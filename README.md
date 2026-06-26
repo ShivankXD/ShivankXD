@@ -135,3 +135,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shivankxd&label=Profile%20views&color=0e75b6&style=flat" alt="shivankxd" />
 </p>
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/31f271bb-f747-4c67-b7be-83ce6f5c328c" />
