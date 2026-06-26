@@ -137,4 +137,4 @@
 </p>
 
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/31f271bb-f747-4c67-b7be-83ce6f5c328c" />
+<img width="768" height="512" alt="image" src="https://github.com/user-attachments/assets/31f271bb-f747-4c67-b7be-83ce6f5c328c" />
